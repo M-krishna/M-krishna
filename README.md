@@ -11,6 +11,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/krishna-murugan)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fazeneo/)
 
+<br />
 
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
