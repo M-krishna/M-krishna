@@ -18,3 +18,12 @@
 - [Creating CLI With Golang](/posts/create-cli-with-golang/)
 - [Creating ls Command With Golang](/posts/create-ls-command-with-golang/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+
+  <img align="left" alt="Krishna's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=M-krishna&show_icons=true&hide_border=true" />
+
+</details>
