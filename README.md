@@ -1,7 +1,5 @@
 ### Hi there, I'm Krishna aka Fazeneo 👋
 
-- 🔭 I’m currently working on [Google keep Clone](https://github.com/M-krishna/notes-app)
-- 🌱 I’m currently learning Advanced Golang 
 - 👯 2021 goal is to contribute more to open source
 - ⚡ Fun fact: Real programmers don't use light themed IDE's
 
