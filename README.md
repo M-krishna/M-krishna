@@ -13,6 +13,6 @@
 
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating CLI With Golang](https://m-krishna.github.io/posts/create-cli-with-golang/)
-- [Creating ls Command With Golang](https://m-krishna.github.io/posts/create-ls-command-with-golang/)
+- [Creating CLI With Golang](/posts/create-cli-with-golang/)
+- [Creating ls Command With Golang](/posts/create-ls-command-with-golang/)
 <!-- BLOG-POST-LIST:END -->
