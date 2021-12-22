@@ -1,7 +1,6 @@
 ### Hi there, I'm Krishna aka Fazeneo 👋
 
-- 👯 2021 goal is to contribute more to open source
-- ⚡ Fun fact: Real programmers don't use light themed IDE's
+<>Waiting to see what's in the bag for 2022</>
 
 ### Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://m-krishna.github.io)
