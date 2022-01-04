@@ -1,6 +1,6 @@
 ### Hi there, I'm Krishna aka Fazeneo 👋
 
-<>Waiting to see what's in the bag for 2022</>
+<>Learn learn learn</>
 
 ### Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://m-krishna.github.io)
